@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hadzzy</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/bbaf8911c18af962a969747037b9f763/0550b09028927334-55/s1280x1920/217f605b7248e9def26acda8438ae7d53beb3de4.gifv" />
-
+<img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/64c73d04a946980a4476537e/64cd4cf165d907b29682f236_reflecting.png
+" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadzzz&label=Profile%20views&color=0e75b6&style=flat" alt="hadzzz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hadzzy3" target="blank"><img src="https://img.shields.io/twitter/follow/hadzzy3?logo=twitter&style=for-the-badge" alt="hadzzy3" /></a> </p>
