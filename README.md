@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadzzy</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">"I am a passionate mobile developer specializing in React Native and Flutter. I build apps that deliver real value to users."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/64c73d04a946980a4476537e/64d18f01ee89ff2192ed113d_pilot.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadzzz&label=Profile%20views&color=0e75b6&style=flat" alt="hadzzz" /> </p>
