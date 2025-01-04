@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hadzzy3" target="blank"><img src="https://img.shields.io/twitter/follow/hadzzy3?logo=twitter&style=for-the-badge" alt="hadzzy3" /></a> </p>
 
-- 🌱 I’m currently learning **Next js, Go**
+- 🌱 I’m currently learning **Next js, React Native**
 
 - 👨‍💻 All of my projects are available at [https://portofolio-three-liard.vercel.app/](https://portofolio-three-liard.vercel.app/)
 
