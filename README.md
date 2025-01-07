@@ -1,39 +1,106 @@
-<h1 align="center">Hi 👋, I'm Hadzzy</h1>
-<h3 align="center">"I am a passionate mobile developer specializing in React Native and Flutter. I build apps that deliver real value to users."</h3>
+<div align="center">
+  
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⣠⣶⣾⣿⣿⣿⠿⠿⠿⢿⣿⣿⣿⣄⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⠀⠀⢰⣿⣿⣯⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣷⡄⠀ 
+⠀⠀⣀⣤⣴⣶⣶⣿⡟⠀⠀⠀⢸⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⠀ 
+⠀⢰⣿⡟⠋⠉⣹⣿⡇⠀⠀⠀⠘⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣶⣶⣶⣿⣿⣿⠀ 
+⠀⢸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀ 
+⠀⣸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠉⠻⠿⣿⣿⣿⣿⡿⠿⠿⠛⢻⣿⡇⠀⠀ 
+⠀⣿⣿⠁⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣧⠀⠀ 
+⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀ 
+⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀ 
+⠀⢿⣿⡆⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀ 
+⠀⠸⣿⣧⡀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠃⠀⠀ 
+⠀⠀⠛⢿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⣰⣿⣿⣷⣶⣶⣶⣶⠶⠀⢠⣿⣿⠀⠀⠀ 
+```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/64c73d04a946980a4476537e/64d18f01ee89ff2192ed113d_pilot.png" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadzzz&label=Profile%20views&color=0e75b6&style=flat" alt="hadzzz" /> </p>
+# 『🌸 Hadzi Pamuji's Code Dojo 🌸』
 
-<p align="left"> <a href="https://twitter.com/hadzzy3" target="blank"><img src="https://img.shields.io/twitter/follow/hadzzy3?logo=twitter&style=for-the-badge" alt="hadzzy3" /></a> </p>
+> *"In the realm of code, every bug is a lesson in disguise" - コードの道*
 
-- 🌱 I’m currently learning **Next js, React Native**
+[![Profile Views](https://komarev.com/ghpvc/?username=hadzzz&label=Visitors&color=ff69b4&style=flat)](https://github.com/hadzzz)
+[![Twitter](https://img.shields.io/twitter/follow/hadzzy3?style=flat&logo=twitter&color=ff69b4)](https://twitter.com/hadzzy3)
 
-- 👨‍💻 All of my projects are available at [https://portofolio-three-liard.vercel.app/](https://portofolio-three-liard.vercel.app/)
+---
 
-- 📝 I regularly write articles on [https://portofolio-three-liard.vercel.app/blog](https://portofolio-three-liard.vercel.app/blog)
+### 『🎌 Code Sensei Status』
 
-- 💬 Ask me about **React**
+```js
+const hadzi = {
+    role: "Full Stack Mobile Developer",
+    location: "Digital Dojo 🏯",
+    weapons: ["React Native", "Flutter", "Next.js"],
+    currentQuest: "Mastering the Art of Clean Code",
+    powerLevel: "Over 9000! 💪",
+    motto: "Write code like poetry, debug like a detective"
+};
+```
 
-- 📫 How to reach me **hadzipamuji5@gmail.com**
+### 『⚔️ Battle Skills』
 
-- 📄 Know about my experiences [https://portofolio-three-liard.vercel.app/resume](https://portofolio-three-liard.vercel.app/resume)
+<div align="center">
 
-- ⚡ Fun fact **I think I am Lazy**
+| 🎭 Frontend | 🏰 Backend | 📱 Mobile | 🛠️ Tools |
+|------------|------------|-----------|----------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Native APIs](https://img.shields.io/badge/Native_APIs-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hadzzy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadzzy3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadzi pamuji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadzi pamuji" height="30" width="40" /></a>
-<a href="https://fb.com/hadzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadzi" height="30" width="40" /></a>
-<a href="https://instagram.com/hdzi08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdzi08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hadzi6990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hadzi6990" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 『🎯 Current Side Quests』
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadzzz&show_icons=true&locale=en&layout=compact" alt="hadzzz" /></p>
+```ascii
+📱 Building Epic Mobile Apps
+├── 🚀 React Native Adventures
+├── 🎨 Flutter Masterpieces
+└── ⚡ Next.js Explorations
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadzzz&show_icons=true&locale=en" alt="hadzzz" /></p>
+### 『📜 Sacred Scrolls』
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadzzz&" alt="hadzzz" /></p>
+- 🎨 Portfolio: [My Digital Garden](https://portofolio-three-liard.vercel.app/)
+- 📚 Blog: [Dev Chronicles](https://portofolio-three-liard.vercel.app/blog)
+- 📋 Resume: [Battle History](https://portofolio-three-liard.vercel.app/resume)
+
+### 『🎮 Player Stats』
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadzzz&show_icons=true&theme=tokyonight&border_color=ff69b4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadzzz&layout=compact&theme=tokyonight&border_color=ff69b4)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hadzzz&theme=tokyonight&border=ff69b4)
+
+</div>
+
+### 『🌟 Join My Quest』
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join_My_Network-ff69b4?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hadzi-pamuji)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_My_Journey-ff69b4?style=for-the-badge&logo=twitter)](https://twitter.com/hadzzy3)
+[![Email](https://img.shields.io/badge/Email-Send_a_Message-ff69b4?style=for-the-badge&logo=gmail)](mailto:hadzipamuji5@gmail.com)
+
+```ascii
+     📮 DM Status: Always open for collaboration!
+    
+      ╭─━━━━━━━━━━━━━━━━━━━━━━━━─╮
+      │  Let's create something   │
+      │      legendary! 🌟        │
+      ╰─━━━━━━━━━━━━━━━━━━━━━━━━─╯
+```
+</div>
+
+---
+
+<div align="center">
+  
+*"The code is strong with this one" - Master Yoda.js*
+
+</div>
